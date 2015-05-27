@@ -1,3 +1,4 @@
 # Gitkurs
-Hai
+Hello
+(it should be in english)
 
