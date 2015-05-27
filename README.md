@@ -1,3 +1,3 @@
 # Gitkurs
-Hai
+Hej
 
